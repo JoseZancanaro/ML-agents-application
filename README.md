@@ -7,14 +7,14 @@ Detalhes do tutorial seguido podem ser encontrados [aqui](https://github.com/Uni
 
 ### Ambiente
 Aplicado na plataforma de desenvolvimento Unity  
-![Ambiente de treinamento](/Docs/Images/enviroment.png)  
+![Ambiente de treinamento](Docs/Images/enviroment.PNG)  
 
 ### Treinamento
 Rede neural na linguagem de programação Python  
-![Executando o treinamento](/Docs/Images/training.png)  
+![Executando o treinamento](Docs/Images/training.PNG)  
 
-![Registros do treinamento](/Docs/Images/training-log.png)  
+![Registros do treinamento](Docs/Images/training-log.PNG)  
 
 ### Alguns resultados
 Visualizados usando o Tensorboard  
-![Resultados obtidos ](/Docs/Images/results.png)
+![Resultados obtidos ](Docs/Images/results.PNG)
